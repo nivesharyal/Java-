@@ -15,7 +15,10 @@ public class Logical {
         int a = 10;
         int b = 15;
         if(a==b || b==a){
-            System.out.println("");
+            System.out.println("They are equal");
+
+        }else{
+            System.out.println("They are unequal");
         }
 
 
