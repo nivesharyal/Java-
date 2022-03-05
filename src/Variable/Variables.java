@@ -1,6 +1,13 @@
 package Variable;
 
 public class Variables {
+
+   // final int k;
+
+    //Variables(int x){
+      //  this.k=x;
+    //}
+
     //static
     static int x = 5;
 
