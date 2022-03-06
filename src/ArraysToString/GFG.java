@@ -1,9 +1,10 @@
 package ArraysToString;
 
+import java.lang.*;
 import java.util.Arrays;
 
 public class GFG {
-    public static void main(String[] args)
+    public void show()
     {
 
         // Let us create different types of arrays and
@@ -35,5 +36,6 @@ public class GFG {
                 "Object Array: "
                         + Arrays.toString(objArr));
     }
+
 }
 
